@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618331960181",
+    "project_id": "kitchenkart-project",
+    "storage_bucket": "kitchenkart-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618331960181:android:6a94a1d782a239d8d6593c",
+        "android_client_info": {
+          "package_name": "com.kitchenkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618331960181-7vuao5p3ci0hugoibog662856hu8kgjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kitchenkart",
+            "certificate_hash": "e080a126cb69fddffe174d8efe8481cf532c8596"
+          }
+        },
+        {
+          "client_id": "618331960181-niahgqrhlo29ehb40l8lphd1nlelgf5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8cz5RZ90mgVy-RxMiRJNN6SSe2_7HbQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618331960181-niahgqrhlo29ehb40l8lphd1nlelgf5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
